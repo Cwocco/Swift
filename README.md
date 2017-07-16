@@ -1,2 +1,2 @@
 # Swift
-Some Swiff things.
+Some Swift things.
